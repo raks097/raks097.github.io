@@ -38,6 +38,8 @@ Our model was able to implicate interesting findings such as differences between
 
 [Image Style Transfer Using Convolutional Neural Networks](https://github.com/raks097/nn_style_transfer)
 An implementation of neural style transfer is developed to  compose images in the style of another image.
+
+
 <img src="/images/NST.PNG?raw=true"/>
 
 ### Skills
