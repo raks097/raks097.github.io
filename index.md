@@ -2,7 +2,7 @@
 
 ---
 
-### About me
+### About Me
 
 I am Data Scientist/ML Engineer at Reliance Jio.  I graduated from the International Institute of Information Technology with an MTech in Computer Science and Engineering.
 My current research is in Applied Data Science and Explainable AI. I am fascinated by the cross-disciplinary applications of AI/ML in fields such as economics, healthcare and telecommunications.
@@ -39,7 +39,8 @@ Our model was able to implicate interesting findings such as differences between
 
 [Image Style Transfer Using Convolutional Neural Networks](https://github.com/raks097/nn_style_transfer)
 
-An implementation of neural style transfer is developed to  compose images in the style of another image.
+Implementations of neural style transfer(NST) were developed to  compose images in the style of another image.
+Different versions of the NST are implemented, such as the VGG19-based single style transfer and Segmentation style transfer
 
 <img src="/images/NST.PNG?raw=true"/>
 
