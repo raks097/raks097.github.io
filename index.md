@@ -30,13 +30,15 @@ To facilitate the large-scale collection of realistic driving behavior data,  a 
 This agent-based model was developed to study the onset of drug resistance in Mycobacterium tuberculosis.
 The model uses RepastCity to simulate human movements on GIS-based urban enviroments and simulates subsequent spread of the disease.
 Our model was able to implicate interesting findings such as differences between drug-resistant and drug-susceptible diseases.
+
+
 <img src="/images/ABM_2.PNG?raw=true"/>
 
 ---
 
 [Image Style Transfer Using Convolutional Neural Networks](https://github.com/raks097/nn_style_transfer)
 An implementation of neural style transfer is developed to  compose images in the style of another image.
-<img src="/images/NST.png?raw=true"/>
+<img src="/images/NST.PNG?raw=true"/>
 
 ### Skills
 
