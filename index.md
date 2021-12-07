@@ -25,6 +25,8 @@ To facilitate the large-scale collection of realistic driving behavior data,  a 
 <img src="/images/demo.gif?raw=true"/>
 ---
 
+### Projects
+
 ### Skills
 
 - **Data Science and AI:** Pytorch, Scikit-Learn, Pandas, NumPy, Matplotlib, OpenCV, OpenAI Gym, Tensorflow, PyCaret
