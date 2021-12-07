@@ -18,7 +18,7 @@ Additionally, The work was published as a dedicated chapter in [Data-centric Liv
 <img src="/images/ABM.PNG?raw=true"/>
 
 ---
-[Generation Of Realistic Vehicle Trajectories From Video Streams](/pdf/Siemens_Research.pdf)
+[Generation Of Realistic Vehicle Trajectories From Video Streams](/images/demo.gif?raw=true)
 
 This was part of my research co-op in collaboration with Siemens Technology.
 To facilitate the large-scale collection of realistic driving behavior data,  a Mask-RCNN-based object-detection framework is used to extract vehicle trajectories from traffic camera videos.  Furthermore,  deep learning models such as GANs and LSTMs are used to generate new trajectories.
