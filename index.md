@@ -17,15 +17,26 @@ The work was published as a dedicated chapter in [Data-centric Living: Algorithm
 <img src="/images/ABM.PNG?raw=true"/>
 
 ---
-[Generation Of Realistic Vehicle Trajectories From Video Streams]("/pdf/Siemens_Research.pdf")
+[Generation Of Realistic Vehicle Trajectories From Video Streams](/pdf/Siemens_Research.pdf)
 
-This was part of the research conducted during my time at Siemens Technology.
+This was part of my research co-op in collaboration with Siemens Technology.
 To facilitate the large-scale collection of realistic driving behavior data,  a Mask-RCNN-based object-detection framework is used to extract vehicle trajectories from traffic camera videos.  Furthermore,  deep learning models such as GANs and LSTMs are used to generate new trajectories.
 
 <img src="/images/demo.gif?raw=true"/>
 ---
 
 ### Projects
+[Agent Based Modeling and Simulation Of Drug-Resistant Diseases](https://github.com/raks097/Agent-Based-Modeling-And-Simulation-of-Drug-Resistant-Diseases-)
+This agent-based model was developed to study the onset of drug resistance in Mycobacterium tuberculosis.
+The model uses RepastCity to simulate human movements on GIS-based urban enviroments and simulates subsequent spread of the disease.
+Our model was able to implicate interesting findings such as differences between drug-resistant and drug-susceptible diseases.
+<img src="/images/ABM_2.PNG?raw=true"/>
+
+---
+
+[Image Style Transfer Using Convolutional Neural Networks](https://github.com/raks097/nn_style_transfer)
+An implementation of neural style transfer is developed to  compose images in the style of another image.
+<img src="/images/NST.png?raw=true"/>
 
 ### Skills
 
