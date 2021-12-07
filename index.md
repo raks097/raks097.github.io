@@ -14,6 +14,7 @@ My current research is in Applied Data Science and Explainable AI. I am fascinat
 This agent-based model simulatees the trade of digital services between consumers and producers.
 An augmented gravity trade model with various data regulatory constraints accounted for costs of the services.
 The work was published as a dedicated chapter in [Data-centric Living: Algorithms, Digitization and Regulation](http://dx.doi.org/10.4324/9781003093442-12) and was also cited by [United Nations Digital Economy Report 2021](https://unctad.org/webflyer/digital-economy-report-2021).
+
 <img src="/images/ABM.PNG?raw=true"/>
 
 ---
@@ -27,18 +28,18 @@ To facilitate the large-scale collection of realistic driving behavior data,  a 
 
 ### Projects
 [Agent Based Modeling and Simulation Of Drug-Resistant Diseases](https://github.com/raks097/Agent-Based-Modeling-And-Simulation-of-Drug-Resistant-Diseases-)
+
 This agent-based model was developed to study the onset of drug resistance in Mycobacterium tuberculosis.
 The model uses RepastCity to simulate human movements on GIS-based urban enviroments and simulates subsequent spread of the disease.
 Our model was able to implicate interesting findings such as differences between drug-resistant and drug-susceptible diseases.
-
 
 <img src="/images/ABM_2.PNG?raw=true"/>
 
 ---
 
 [Image Style Transfer Using Convolutional Neural Networks](https://github.com/raks097/nn_style_transfer)
-An implementation of neural style transfer is developed to  compose images in the style of another image.
 
+An implementation of neural style transfer is developed to  compose images in the style of another image.
 
 <img src="/images/NST.PNG?raw=true"/>
 
