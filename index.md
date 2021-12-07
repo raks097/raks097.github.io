@@ -14,7 +14,7 @@ My current research is in Applied Data Science and Explainable AI. I am fascinat
 This agent-based model simulatees the trade of digital services between consumers and producers.
 An augmented gravity trade model with various data regulatory constraints accounted for costs of the services.
 The work was published as a dedicated chapter in [Data-centric Living: Algorithms, Digitization and Regulation](http://dx.doi.org/10.4324/9781003093442-12) and was also cited by [United Nations Digital Economy Report 2021](https://unctad.org/webflyer/digital-economy-report-2021).
-<img src="images/ABM.JPG?raw=true"/>
+<img src="/images/ABM.JPG?raw=true"/>
 
 ---
 [Generation Of Realistic Vehicle Trajectories From Video Streams]("pdf/Siemens_Research.pdf")
@@ -22,7 +22,7 @@ The work was published as a dedicated chapter in [Data-centric Living: Algorithm
 This was part of the research conducted during my time at Siemens Technology.
 To facilitate the large-scale collection of realistic driving behavior data,  a Mask-RCNN-based object-detection framework is used to extract vehicle trajectories from traffic camera videos.  Furthermore,  deep learning models such as GANs and LSTMs are used to generate new trajectories.
 
-<img src="images/ABM.JPG?raw=true"/>
+<img src="/images/ABM.JPG?raw=true"/>
 ---
 
 ### Skills
@@ -33,5 +33,3 @@ To facilitate the large-scale collection of realistic driving behavior data,  a 
 - **Certificates:** [IBM Quantum Challenge 2021 - Advanced](https://www.credly.com/badges/cd92b338-bb42-489e-8406-3ca1dd3e30e3?source=linked_in_profile)
 
 ---
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
-<!-- Remove above link if you don't want to attibute -->
