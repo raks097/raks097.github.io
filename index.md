@@ -4,8 +4,7 @@
 
 ### About Me
 
-I am Data Scientist/ML Engineer at Reliance Jio.  I graduated from the International Institute of Information Technology with an MTech in Computer Science and Engineering.
-My current research is in Applied Data Science and Explainable AI. I am fascinated by the cross-disciplinary applications of AI/ML in fields such as economics, healthcare and telecommunications.
+I am Computational Data Analytics Candidate at Georgia Tech, Atlanta. I have more than two years of professional work experience in Data Science and Machine Learning in companies like Reliance Jio, Siemens Technology and Morgan Stanley. I graduated from the International Institute of Information Technology with an MTech in Computer Science and Engineering. My current research is in Applied Data Science and Explainable AI. I am fascinated by the cross-disciplinary applications of AI/ML in fields such as economics, healthcare and telecommunications.
 
 ### Research
 
