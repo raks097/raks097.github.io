@@ -46,7 +46,7 @@ Please feel free to touch base at spotluri31@gatech.edu or sairakshithp97@gmail.
 
 
 
-### Research
+## Research
 
 [AI Forest: Cognition in the Wild](/images/yolo_v7.gif?raw=true)
 
@@ -64,7 +64,9 @@ This was part of my research co-op in collaboration with Siemens Technology.
 To facilitate the large-scale collection of realistic driving behavior data,  a Mask-RCNN-based object-detection framework is used to extract vehicle trajectories from traffic camera videos.  Furthermore,  deep learning models such as GANs and LSTMs are used to generate new trajectories.
 
 <img src="/images/demo.gif?raw=true"/>
+
 ---
+
 [Agent-Based Modeling of Data Localization](https://doi.org/10.1016/j.telpol.2020.102022)
 
 This agent-based model simulatees the trade of digital services between consumers and producers.
@@ -74,7 +76,7 @@ Additionally, The work was published as a dedicated chapter in [Data-centric Liv
 <img src="/images/ABM.PNG?raw=true"/>
 
 ---
-### Projects
+## Projects
 [Agent Based Modeling and Simulation Of Drug-Resistant Diseases](https://github.com/raks097/Agent-Based-Modeling-And-Simulation-of-Drug-Resistant-Diseases-)
 
 This agent-based model was developed to study the onset of drug resistance in Mycobacterium tuberculosis.
