@@ -62,9 +62,9 @@ Please feel free to touch base at spotluri31@gatech.edu or sairakshithp97@gmail.
 [Generation Of Realistic Vehicle Trajectories From Video Streams](/images/demo.gif?raw=true)
 
 **Collaboration:** Research Co-op with Siemens Technology
--Researched multiple behavioral models for autonomous navigation using Reinforcement (RL) and Imitation Learning (IL).
--Finalized the 'Learning by Cheating' method, implementing it through Tensorflow, OpenAI Gym, and CARLA.
--Devised a pipeline that leverages Mask-RCNN and IOU Tracking to seamlessly transform raw traffic camera feeds into distinct vehicle trajectories. With this strategy, we achieved a 100% surge in our trajectory dataset.
+- Researched multiple behavioral models for autonomous navigation using Reinforcement (RL) and Imitation Learning (IL).
+- Finalized the 'Learning by Cheating' method, implementing it through Tensorflow, OpenAI Gym, and CARLA.
+- Devised a pipeline that leverages Mask-RCNN and IOU Tracking to seamlessly transform raw traffic camera feeds into distinct vehicle trajectories. With this strategy, we achieved a 100% surge in our trajectory dataset.
 
 <img src="/images/demo.gif?raw=true"/>
 
