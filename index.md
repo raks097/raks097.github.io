@@ -23,8 +23,38 @@ As my graduation in December 2023 approaches, I'm poised to embrace opportunitie
 If you believe in the transformative potential of data as much as I do, and are looking for someone with a proven knack for insight-driven innovation, I'm all ears! 🚀 
 Please feel free to touch base at spotluri31@gatech.edu or sairakshithp97@gmail.com.
 
+## Industry Experience
+
+### Knowledge Base Enhancement with Generative AI, Sponsored Practicum Project with NCR Corporation 
+**Aug 2023 – present | Atlanta, United States**
+- Seamlessly integrating LLMs into NCR's Knowledge Repository with a vision to supercharge customer support by amplifying article relevance.
+- Enriching the system with Large Language Models (LLM) informed semantic search features. Drawing insights from call transcripts and incident data, ensuring domain-specific, and intent-accurate search outcomes.
+
+### Data Science Intern, Cognira 
+**May 2023 – Aug 2023 | Atlanta, United States**
+- Orchestrated and executed PySpark pipelines enhancing data integration, leading to a consolidated sales and promotional dataset.
+- Undertook data analyses to uncover previously unnoticed pantry loading effects spanning 202 top-volume categories.
+- Employed sophisticated statistical methods and introduced innovative features, significantly elevating the forecasting mechanism for a Tier-1 retail client.
+- Revamped inventory strategies, setting the stage for potential yearly savings of an impressive $480,000.
+
+### SWE - Data Scientist, Reliance Jio AI-COE 
+**Aug 2020 – Jul 2022 | Hyderabad, India**
+- Leveraged PySpark for Extract Transform Load processes, boosting data efficiency by 41%. This paved the way for optimized downstream applications like Customer Segmentation and Large-Scale Subscriber Monitoring for over 400 million telecom subscribers.
+- Pioneered a Digital Twin Model using LightGBM and XGBoost, achieving a remarkable increase in AUC from 0.61 to 0.82 post meticulous data tuning.
+- Introduced an SHAP-based explainability mechanism, offering 4G/5G Network Insights which catalyzed significant service enhancements.
+- Spearheaded collaboration among cross-functional teams, playing a crucial role as a bridge. This synergy was crucial in harnessing generated reason codes for Targeted Promotions, propelling monetization efforts.
+
+
 
 ### Research
+
+## AI Forest: Cognition in the Wild
+**Supervised by:** Dr. Jacob Abernethy, College of Computing, Georgia Tech & Dr. Marcela Benítez, Department of Anthropology, Emory University
+
+- Deployed **YOLOv7** for primate identification within the AI Forest initiative, witnessing a substantial boost in accuracy rates — from 0.87 to 0.92, specifically for wild capuchin images.
+- The ensuing phase is set to witness real-time deployment within a wildlife sanctuary located in Costa Rica, geared towards recognizing and tracking capuchin monkeys of identical species.
+- This pioneering project has been honored with the esteemed **AI.Humanity seed grant** bestowed by both Georgia Tech and Emory University.
+<img src="/images/yolo_v7.gif?raw=true"/>
 
 [Agent-Based Modeling of Data Localization](https://doi.org/10.1016/j.telpol.2020.102022)
 
