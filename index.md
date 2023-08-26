@@ -60,6 +60,7 @@ Please feel free to touch base at spotluri31@gatech.edu or sairakshithp97@gmail.
 
 
 [Generation Of Realistic Vehicle Trajectories From Video Streams](/images/demo.gif?raw=true)
+
 **Collaboration:** Research Co-op with Siemens Technology
 - Investigated and compared various behavioral models for autonomous navigation, specifically emphasizing Reinforcement Learning (RL) and Imitation Learning (IL).
 - Adopted and executed the 'Learning by Cheating' methodology using tools like Tensorflow, OpenAI Gym, and CARLA.
