@@ -48,21 +48,14 @@ Please feel free to touch base at spotluri31@gatech.edu or sairakshithp97@gmail.
 
 ### Research
 
-## AI Forest: Cognition in the Wild
+[AI Forest: Cognition in the Wild](/images/yolo_v7.gif?raw=true)
+
 **Supervised by:** Dr. Jacob Abernethy, College of Computing, Georgia Tech & Dr. Marcela Benítez, Department of Anthropology, Emory University
 
 - Deployed **YOLOv7** for primate identification within the AI Forest initiative, witnessing a substantial boost in accuracy rates — from 0.87 to 0.92, specifically for wild capuchin images.
 - The ensuing phase is set to witness real-time deployment within a wildlife sanctuary located in Costa Rica, geared towards recognizing and tracking capuchin monkeys of identical species.
 - This pioneering project has been honored with the esteemed **AI.Humanity seed grant** bestowed by both Georgia Tech and Emory University.
 <img src="/images/yolo_v7.gif?raw=true"/>
-
-[Agent-Based Modeling of Data Localization](https://doi.org/10.1016/j.telpol.2020.102022)
-
-This agent-based model simulatees the trade of digital services between consumers and producers.
-An augmented gravity trade model with various data regulatory constraints accounted for costs of the services. 
-Additionally, The work was published as a dedicated chapter in [Data-centric Living: Algorithms, Digitization and Regulation](http://dx.doi.org/10.4324/9781003093442-12) and was also cited by [United Nations Digital Economy Report 2021](https://unctad.org/webflyer/digital-economy-report-2021).
-
-<img src="/images/ABM.PNG?raw=true"/>
 
 ---
 [Generation Of Realistic Vehicle Trajectories From Video Streams](/images/demo.gif?raw=true)
@@ -72,7 +65,15 @@ To facilitate the large-scale collection of realistic driving behavior data,  a 
 
 <img src="/images/demo.gif?raw=true"/>
 ---
+[Agent-Based Modeling of Data Localization](https://doi.org/10.1016/j.telpol.2020.102022)
 
+This agent-based model simulatees the trade of digital services between consumers and producers.
+An augmented gravity trade model with various data regulatory constraints accounted for costs of the services. 
+Additionally, The work was published as a dedicated chapter in [Data-centric Living: Algorithms, Digitization and Regulation](http://dx.doi.org/10.4324/9781003093442-12) and was also cited by [United Nations Digital Economy Report 2021](https://unctad.org/webflyer/digital-economy-report-2021).
+
+<img src="/images/ABM.PNG?raw=true"/>
+
+---
 ### Projects
 [Agent Based Modeling and Simulation Of Drug-Resistant Diseases](https://github.com/raks097/Agent-Based-Modeling-And-Simulation-of-Drug-Resistant-Diseases-)
 
