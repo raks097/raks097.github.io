@@ -4,27 +4,25 @@
 
 ### About Me
 
-Hello! Welcome to a snapshot of my professional journey.
+Hello and welcome to my professional nexus.
 
-Originating from a solid foundation with a Masters in Computer Science and Engineering from IIIT Bangalore, I've dedicated over three years to navigating the intricate terrains of Telecom, Retail, and Technology. Each sector revealed its own unique challenges, but fortified with a commitment to data-driven insights, I consistently devised impactful solutions. From sharpening forecasting models in Retail to innovating with machine learning methodologies, my endeavors always centered around creating tangible value.
+Having honed my skills with a Masters in Computer Science and Engineering from IIIT Bangalore, my professional trajectory over the past three years has taken me through the nuanced terrains of Telecom, Retail, and Technology. Each domain presented its unique set of challenges. Yet, with a persistent focus on harnessing data-driven insights, I've consistently translated challenges into solutions and value propositions.
 
-Presently, as I steer through the rigorous MS Analytics program at Georgia Tech, specializing in Computational Data Analytics, my experiences have been nothing short of transformative. My time here has not only deepened my analytical prowess but has also seen me embark on pioneering research in Computer Vision and a practical project focusing on Generative AI.
+Presently, I'm deepening my expertise in the MS Analytics program at Georgia Tech. My specialization in Computational Data Analytics has been a rich learning ground. Here, I've bolstered my analytical capabilities and delved into pioneering research in Computer Vision. Moreover, I've embarked on practical projects, notably one that focuses on the riveting world of Generative AI.
 
-### Technical Expertise
+### Technical Prowess
 
 - **Languages & Libraries:** Python, Java, R, Pytorch, Scikit-Learn, Pandas, NumPy, Matplotlib, OpenCV, OpenAI Gym, Tensorflow, PyCaret, PySpark
 - **Infrastructure & Databases:** MySQL, Apache Kafka, Docker, ELK, AWS EC2, SQL, Google Cloud
 - **Visualization Tools:** Tableau, Seaborn, D3.JS, Kepler.GL
-- **Analytical Skills:** Regression, Clustering, Classification, A/B Testing, Deep Learning, Computer Vision
-- **Certificates:** [IBM Quantum Challenge 2021 - Advanced](https://www.credly.com/badges/cd92b338-bb42-489e-8406-3ca1dd3e30e3?source=linked_in_profile)
+- **Analytical Competencies:** Regression, Clustering, Classification, A/B Testing, Deep Learning, Computer Vision
+- **Accolades:** [IBM Quantum Challenge 2021 - Advanced](https://www.credly.com/badges/cd92b338-bb42-489e-8406-3ca1dd3e30e3?source=linked_in_profile)
 
+As my graduation in December 2023 approaches, I'm poised to embrace opportunities as a Data Scientist, Applied Scientist, or Machine Learning Engineer. Committed to bringing a blend of academic insights and practical industry experience, I am enthusiastic about joining teams that value cutting-edge innovation and robust data-centric strategies.
 
-As I approach my graduation in December 2023, I am eagerly exploring full-time roles as a Data Scientist, Applied Scientist, or Machine Learning Engineer. My goal is to infuse rich academic insights and practical industry experience into organizations that fervently champion innovation and data-centric decision-making.
+If you believe in the transformative potential of data as much as I do, and are looking for someone with a proven knack for insight-driven innovation, I'm all ears! 🚀 
+Please feel free to touch base at spotluri31@gatech.edu or sairakshithp97@gmail.com.
 
-If you're on the hunt for a data enthusiast with a proven track record of transformative insights, let's chat! 🚀 
-Eager for collaborations, discussions, or to delve into potential opportunities? Reach out! 
-You can contact me directly at spotluri31@gatech.edu or sairakshithp97@gmail.com. 
-Let's come together and leverage the transformative power of data!
 
 ### Research
 
