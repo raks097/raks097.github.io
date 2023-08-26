@@ -4,8 +4,6 @@
 
 ### About Me
 
-Hello and welcome to my professional nexus.
-
 Having honed my skills with a Masters in Computer Science and Engineering from IIIT Bangalore, my professional trajectory over the past three years has taken me through the nuanced terrains of Telecom, Retail, and Technology. Each domain presented its unique set of challenges. Yet, with a persistent focus on harnessing data-driven insights, I've consistently translated challenges into solutions and value propositions.
 
 Presently, I'm deepening my expertise in the MS Analytics program at Georgia Tech. My specialization in Computational Data Analytics has been a rich learning ground. Here, I've bolstered my analytical capabilities and delved into pioneering research in Computer Vision. Moreover, I've embarked on practical projects, notably one that focuses on the riveting world of Generative AI.
