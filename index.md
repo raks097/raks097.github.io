@@ -48,7 +48,7 @@ Please feel free to touch base at spotluri31@gatech.edu or sairakshithp97@gmail.
 
 ## Research
 
-[AI Forest: Cognition in the Wild](/images/yolo_v7.gif?raw=true)
+[AI Forest: Cognition in the Wild](https://news.emory.edu/stories/2022/07/er_ai_humanity_seed_grant_20-07-2022/story.html)
 
 **Supervised by:** Dr. Jacob Abernethy, College of Computing, Georgia Tech & Dr. Marcela Benítez, Department of Anthropology, Emory University
 
