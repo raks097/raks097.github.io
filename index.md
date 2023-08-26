@@ -23,6 +23,8 @@ As my graduation in December 2023 approaches, I'm poised to embrace opportunitie
 If you believe in the transformative potential of data as much as I do, and are looking for someone with a proven knack for insight-driven innovation, I'm all ears! 🚀 
 Please feel free to touch base at spotluri31@gatech.edu or sairakshithp97@gmail.com.
 
+-----
+
 ## Industry Experience
 
 ### Knowledge Base Enhancement with Generative AI, Sponsored Practicum Project with NCR Corporation 
@@ -44,6 +46,7 @@ Please feel free to touch base at spotluri31@gatech.edu or sairakshithp97@gmail.
 - Introduced an SHAP-based explainability mechanism, offering 4G/5G Network Insights which catalyzed significant service enhancements.
 - Spearheaded collaboration among cross-functional teams, playing a crucial role as a bridge. This synergy was crucial in harnessing generated reason codes for Targeted Promotions, propelling monetization efforts.
 
+-----
 
 
 ## Research
@@ -57,15 +60,17 @@ Please feel free to touch base at spotluri31@gatech.edu or sairakshithp97@gmail.
 - This pioneering project has been honored with the esteemed **AI.Humanity seed grant** bestowed by both Georgia Tech and Emory University.
 <img src="/images/yolo_v7.gif?raw=true"/>
 
----
-[Generation Of Realistic Vehicle Trajectories From Video Streams](/images/demo.gif?raw=true)
 
-This was part of my research co-op in collaboration with Siemens Technology.
-To facilitate the large-scale collection of realistic driving behavior data,  a Mask-RCNN-based object-detection framework is used to extract vehicle trajectories from traffic camera videos.  Furthermore,  deep learning models such as GANs and LSTMs are used to generate new trajectories.
+[Generation Of Realistic Vehicle Trajectories From Video Streams](/images/demo.gif?raw=true)
+**Collaboration:** Research Co-op with Siemens Technology
+- Investigated and compared various behavioral models for autonomous navigation, specifically emphasizing Reinforcement Learning (RL) and Imitation Learning (IL).
+- Adopted and executed the 'Learning by Cheating' methodology using tools like Tensorflow, OpenAI Gym, and CARLA.
+- Architected and launched an innovative pipeline, transforming raw traffic camera feeds into distinct vehicle trajectories with the assistance of Mask-RCNN and IOU Tracking.
+- Employed LSTM-based sequence-to-sequence models, augmenting our synthetic dataset by 25% and generating vehicle trajectories anchored in real-time data extraction.
 
 <img src="/images/demo.gif?raw=true"/>
 
----
+
 
 [Agent-Based Modeling of Data Localization](https://doi.org/10.1016/j.telpol.2020.102022)
 
@@ -75,8 +80,23 @@ Additionally, The work was published as a dedicated chapter in [Data-centric Liv
 
 <img src="/images/ABM.PNG?raw=true"/>
 
----
+-----
+
 ## Projects
+
+[Telecommunication Spectrum Data Visualization](https://indiatelecom.netlify.app/)
+- **Project Overview:** 
+  - Visualized dense Telecom Spectrum data employing techniques like Heatmap, Treemap, and Geographical Map Visualization, integrating them onto the website.
+  - Implemented visualization using D3.js and JavaScript.
+
+- **Technical Stack & Processes:**
+  - **Development Tools:** Utilized D3.js and JavaScript for data visualization.
+  - **DevOps & Deployment:** Leveraged Jenkins, Docker, ELK, and AWS during the portal's development phase. Hosted the final product using Netlify.
+
+- **Live Demo:** [View Website](https://indiatelecom.netlify.app/)
+
+
+
 [Agent Based Modeling and Simulation Of Drug-Resistant Diseases](https://github.com/raks097/Agent-Based-Modeling-And-Simulation-of-Drug-Resistant-Diseases-)
 
 This agent-based model was developed to study the onset of drug resistance in Mycobacterium tuberculosis.
@@ -85,7 +105,6 @@ Our model was able to implicate interesting findings such as differences between
 
 <img src="/images/ABM_2.PNG?raw=true"/>
 
----
 
 [Image Style Transfer Using Convolutional Neural Networks](https://github.com/raks097/nn_style_transfer)
 
@@ -95,4 +114,4 @@ Different versions of the NST are implemented, such as the VGG19-based single st
 <img src="/images/NST.PNG?raw=true"/>
 
 
----
+-----
