@@ -4,7 +4,27 @@
 
 ### About Me
 
-I am Computational Data Analytics Candidate at Georgia Tech, Atlanta. I have more than two years of professional work experience in Data Science and Machine Learning in companies like Reliance Jio, Siemens Technology and Morgan Stanley. I graduated from the International Institute of Information Technology with an MTech in Computer Science and Engineering. My current research is in Applied Data Science and Explainable AI. I am fascinated by the cross-disciplinary applications of AI/ML in fields such as economics, healthcare and telecommunications.
+Hello! Welcome to a snapshot of my professional journey.
+
+Originating from a solid foundation with a Masters in Computer Science and Engineering from IIIT Bangalore, I've dedicated over three years to navigating the intricate terrains of Telecom, Retail, and Technology. Each sector revealed its own unique challenges, but fortified with a commitment to data-driven insights, I consistently devised impactful solutions. From sharpening forecasting models in Retail to innovating with machine learning methodologies, my endeavors always centered around creating tangible value.
+
+Presently, as I steer through the rigorous MS Analytics program at Georgia Tech, specializing in Computational Data Analytics, my experiences have been nothing short of transformative. My time here has not only deepened my analytical prowess but has also seen me embark on pioneering research in Computer Vision and a practical project focusing on Generative AI.
+
+### Technical Expertise
+
+- **Languages & Libraries:** Python, Java, R, Pytorch, Scikit-Learn, Pandas, NumPy, Matplotlib, OpenCV, OpenAI Gym, Tensorflow, PyCaret, PySpark
+- **Infrastructure & Databases:** MySQL, Apache Kafka, Docker, ELK, AWS EC2, SQL, Google Cloud
+- **Visualization Tools:** Tableau, Seaborn, D3.JS, Kepler.GL
+- **Analytical Skills:** Regression, Clustering, Classification, A/B Testing, Deep Learning, Computer Vision
+- **Certificates:** [IBM Quantum Challenge 2021 - Advanced](https://www.credly.com/badges/cd92b338-bb42-489e-8406-3ca1dd3e30e3?source=linked_in_profile)
+
+
+As I approach my graduation in December 2023, I am eagerly exploring full-time roles as a Data Scientist, Applied Scientist, or Machine Learning Engineer. My goal is to infuse rich academic insights and practical industry experience into organizations that fervently champion innovation and data-centric decision-making.
+
+If you're on the hunt for a data enthusiast with a proven track record of transformative insights, let's chat! 🚀 
+Eager for collaborations, discussions, or to delve into potential opportunities? Reach out! 
+You can contact me directly at spotluri31@gatech.edu or sairakshithp97@gmail.com. 
+Let's come together and leverage the transformative power of data!
 
 ### Research
 
@@ -43,11 +63,5 @@ Different versions of the NST are implemented, such as the VGG19-based single st
 
 <img src="/images/NST.PNG?raw=true"/>
 
-### Skills
-
-- **Data Science and AI:** Pytorch, Scikit-Learn, Pandas, NumPy, Matplotlib, OpenCV, OpenAI Gym, Tensorflow, PyCaret
-- **Programming:** Python, Java, R
-- **Tools :** MySQL, PySpark, Apache Kafka, Docker, ELK, AWS EC2 
-- **Certificates:** [IBM Quantum Challenge 2021 - Advanced](https://www.credly.com/badges/cd92b338-bb42-489e-8406-3ca1dd3e30e3?source=linked_in_profile)
 
 ---
