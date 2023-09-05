@@ -27,8 +27,9 @@ Please feel free to touch base at spotluri31@gatech.edu or sairakshithp97@gmail.
 
 ### Knowledge Base Enhancement with Generative AI, Sponsored Practicum Project with NCR Corporation 
 **Aug 2023 – present | Atlanta, United States**
-- Seamlessly integrating LLMs into NCR's Knowledge Repository with a vision to supercharge customer support by amplifying article relevance.
-- Enriching the system with Large Language Models (LLM) informed semantic search features. Drawing insights from call transcripts and incident data, ensuring domain-specific, and intent-accurate search outcomes.
+- Collaborating to enhance NCR's Knowledge Repository through Retrieval Augmented Generation and Generative AI, using tools like Microsoft Azure, Databricks, Chat-GPT and LangChain.
+- Utilizing LLM-based embeddings for refined content extraction and integrating vector databases to ensure precise article matching.
+- Crafting a streamlined QA chatbot that blends Large Language Model capabilities with industry-specific knowledge to significantly elevate customer query resolution.
 
 ### Data Science Intern, Cognira 
 **May 2023 – Aug 2023 | Atlanta, United States**
@@ -53,7 +54,7 @@ Please feel free to touch base at spotluri31@gatech.edu or sairakshithp97@gmail.
 
 **Supervised by:** Dr. Jacob Abernethy, College of Computing, Georgia Tech & Dr. Marcela Benítez, Department of Anthropology, Emory University
 
-- Deployed **YOLOv7** for primate identification within the AI Forest initiative, witnessing a substantial boost in accuracy rates — from 0.87 to 0.92, specifically for wild capuchin images.
+- Deployed **YOLOv7** for primate identification within the AI Forest initiative, witnessing a substantial boost in accuracy rates — from 0.85 to 0.92, specifically for wild capuchin images.
 - The ensuing phase is set to witness real-time deployment within a wildlife sanctuary located in Costa Rica, geared towards recognizing and tracking capuchin monkeys of identical species.
 - This pioneering project has been honored with the esteemed **AI.Humanity seed grant** bestowed by both Georgia Tech and Emory University.
 <img src="/images/yolo_v7.gif?raw=true"/>
