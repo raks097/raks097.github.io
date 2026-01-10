@@ -41,8 +41,8 @@ body {
   position: relative;
 }
 
-/* Water Background */
-.water-background {
+/* Cloud Background */
+.cloud-background {
   position: fixed;
   top: 0;
   left: 0;
@@ -50,52 +50,37 @@ body {
   height: 100vh;
   z-index: -1;
   overflow: hidden;
-  background: #fcfcfd;
-  filter: blur(140px);
+  background: linear-gradient(135deg, #a5b4fc 0%, #c4b5fd 25%, #93c5fd 50%, #60a5fa 100%);
+  background-size: 200% 200%;
+  animation: bgShift 20s ease infinite;
 }
 
-.water-particle {
+@keyframes bgShift {
+  0% {
+    background-position: 0% 50%
+  }
+
+  50% {
+    background-position: 100% 50%
+  }
+
+  100% {
+    background-position: 0% 50%
+  }
+}
+
+.cloud-particle {
   position: absolute;
   border-radius: 50%;
   pointer-events: none;
-  opacity: 0.6;
-  will-change: transform;
-}
-
-.part-0 {
-  width: 500px;
-  height: 500px;
-  background: rgba(186, 230, 253, 0.6);
-}
-
-.part-1 {
-  width: 450px;
-  height: 450px;
-  background: rgba(199, 210, 254, 0.6);
-}
-
-.part-2 {
-  width: 400px;
-  height: 400px;
-  background: rgba(191, 219, 254, 0.6);
-}
-
-.part-3 {
-  width: 350px;
-  height: 350px;
-  background: rgba(233, 213, 255, 0.5);
-}
-
-.part-4 {
-  width: 300px;
-  height: 300px;
-  background: rgba(254, 215, 226, 0.5);
-}
-
-.part-5 {
-  width: 250px;
-  height: 250px;
-  background: rgba(224, 242, 254, 0.5);
+  will-change: transform, opacity;
+  background: radial-gradient(circle at center,
+      rgba(255, 255, 255, 0.8) 0%,
+      rgba(255, 255, 255, 0.4) 40%,
+      rgba(255, 255, 255, 0) 70%);
+  filter: blur(60px);
+  transition: opacity 0.5s ease;
+  mix-blend-mode: overlay;
 }
 
 .main-content {

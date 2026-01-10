@@ -8,16 +8,29 @@ import Education from './components/Education';
 import Footer from './components/Footer';
 import './index.css';
 
+// Cloud particle configuration
+const NUM_CLOUDS = 8; // Fewer clouds
+
+function initClouds() {
+  return Array.from({ length: NUM_CLOUDS }).map(() => ({
+    x: Math.random() * 100,
+    y: Math.random() * 100,
+    baseX: Math.random() * 100,
+    baseY: Math.random() * 100,
+    size: 400 + Math.random() * 400, // Much larger: 400px - 800px
+    opacity: 0.6 + Math.random() * 0.3,
+    driftSpeed: 0.0002 + Math.random() * 0.0002,
+    driftPhase: Math.random() * Math.PI * 2,
+  }));
+}
+
 export default function App() {
   const [activeSection, setActiveSection] = useState('home');
 
-  // Use refs for "Water" particle animation
-  const mouseRef = useRef({ x: 50, y: 50 });
-  const particlesRef = useRef(
-    Array.from({ length: 6 }).map(() => ({ x: 50, y: 50 }))
-  );
-
+  const mouseRef = useRef({ x: -1000, y: -1000 });
+  const cloudsRef = useRef(initClouds());
   const animationFrameRef = useRef();
+  const timeRef = useRef(0);
 
   useEffect(() => {
     const handleScroll = () => {
@@ -44,23 +57,43 @@ export default function App() {
     };
 
     const animate = () => {
-      const particles = particlesRef.current;
-      const target = mouseRef.current;
+      timeRef.current += 1;
+      const clouds = cloudsRef.current;
+      const mouse = mouseRef.current;
 
-      // Water/Liquid easing: each particle follows the target or previous one with high inertia
-      particles.forEach((p, i) => {
-        const prev = i === 0 ? target : particles[i - 1];
+      clouds.forEach((cloud, i) => {
+        // Gentle floating drift
+        const driftX = Math.sin(timeRef.current * cloud.driftSpeed + cloud.driftPhase) * 2;
+        const driftY = Math.cos(timeRef.current * cloud.driftSpeed * 0.7 + cloud.driftPhase) * 1.5;
 
-        // Easing becomes slower for each particle to create a "liquid" trail
-        const easing = 0.15 - (i * 0.02);
-        p.x += (prev.x - p.x) * easing;
-        p.y += (prev.y - p.y) * easing;
+        // Target position with drift
+        let targetX = cloud.baseX + driftX;
+        let targetY = cloud.baseY + driftY;
 
-        const el = document.getElementById(`water-part-${i}`);
+        // Cursor repulsion - clouds disperse when cursor is near
+        const dx = cloud.x - mouse.x;
+        const dy = cloud.y - mouse.y;
+        const dist = Math.sqrt(dx * dx + dy * dy);
+        const repelRadius = 15;
+
+        if (dist < repelRadius && dist > 0) {
+          const force = (repelRadius - dist) / repelRadius;
+          const angle = Math.atan2(dy, dx);
+          targetX += Math.cos(angle) * force * 20;
+          targetY += Math.sin(angle) * force * 20;
+        }
+
+        // Smooth easing toward target
+        cloud.x += (targetX - cloud.x) * 0.03;
+        cloud.y += (targetY - cloud.y) * 0.03;
+
+        // Update DOM
+        const el = document.getElementById(`cloud-${i}`);
         if (el) {
-          // Use scale to make them feel like "droplets" merging
-          const scale = 1 - (i * 0.05);
-          el.style.transform = `translate3d(${p.x}vw, ${p.y}vh, 0) translate(-50%, -50%) scale(${scale})`;
+          el.style.transform = `translate3d(${cloud.x}vw, ${cloud.y}vh, 0) translate(-50%, -50%)`;
+          el.style.width = `${cloud.size}px`;
+          el.style.height = `${cloud.size}px`;
+          el.style.opacity = cloud.opacity;
         }
       });
 
@@ -80,12 +113,12 @@ export default function App() {
 
   return (
     <div className="app-container">
-      <div className="water-background">
-        {Array.from({ length: 6 }).map((_, i) => (
+      <div className="cloud-background">
+        {cloudsRef.current.map((_, i) => (
           <div
             key={i}
-            id={`water-part-${i}`}
-            className={`water-particle part-${i}`}
+            id={`cloud-${i}`}
+            className="cloud-particle"
           />
         ))}
       </div>

@@ -53,7 +53,7 @@ export const education = [
     {
         id: 'gatech',
         school: 'Georgia Tech',
-        institution: 'Georgia Institute of Technology',
+        institution: '',
         degree: 'M.S. Computational Data Analytics',
         location: 'Atlanta, GA',
         period: 'Aug 2022 – Dec 2023'
@@ -61,7 +61,7 @@ export const education = [
     {
         id: 'iiitb',
         school: 'IIIT Bangalore',
-        institution: 'International Institute of Information Technology Bangalore',
+        institution: '',
         degree: "M.Tech Computer Science, Dean's Merit List",
         location: 'Bangalore, India',
         period: 'Jun 2015 – Jul 2020'
