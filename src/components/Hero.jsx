@@ -1,5 +1,5 @@
 import { FiMail } from 'react-icons/fi';
-import { FaGithub, FaLinkedin } from 'react-icons/fa';
+import { FaGithub, FaLinkedin, FaOrcid } from 'react-icons/fa';
 import { profile } from '../data/profile';
 
 export default function Hero() {
@@ -35,6 +35,15 @@ export default function Hero() {
                         aria-label="GitHub"
                     >
                         <FaGithub size={20} />
+                    </a>
+                    <a
+                        href={profile.social.orcid}
+                        target="_blank"
+                        rel="noopener noreferrer"
+                        className="btn btn-secondary"
+                        aria-label="ORCID"
+                    >
+                        <FaOrcid size={20} />
                     </a>
                     <a
                         href={profile.social.linkedin}

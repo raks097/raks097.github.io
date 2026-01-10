@@ -9,6 +9,7 @@ export const profile = {
     photo: "/images/r_logo.jpeg",
     social: {
         linkedin: "https://www.linkedin.com/in/srp3/",
-        github: "https://github.com/raks097"
+        github: "https://github.com/raks097",
+        orcid: "https://orcid.org/0000-0003-3549-4437"
     }
 };
