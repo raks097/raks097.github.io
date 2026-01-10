@@ -1,7 +1,24 @@
-Welcome to my Portfolio
+# Sai Rakshith Potluri - Portfolio
 
-### References
+A modern, responsive portfolio website built with React + Vite featuring:
 
-[1] Jekyll theme "Minimal" for GitHub Pages: https://github.com/pages-themes/minimal (CC0 1.0 Universal License)
-[2] https://medium.com/@evanca/set-up-your-portfolio-website-in-less-than-10-minutes-with-github-pages-d0efa8ff56fd
+- 🌊 Interactive "liquid glass" background that follows your cursor
+- 🪟 Apple-inspired glassmorphism design
+- ⚡ Fast Vite build with automatic GitHub Pages deployment
 
+## Development
+
+```bash
+npm install
+npm run dev
+```
+
+## Deployment
+
+The site automatically deploys to GitHub Pages when you push to `main`.
+
+## Tech Stack
+
+- React 18
+- Vite
+- CSS (Glassmorphism effects)
