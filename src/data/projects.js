@@ -87,8 +87,6 @@ export const projects = [
         description: 'Multi-resolution VGG19 pipelines with perceptual loss tuning for high-fidelity style transfer, optimized for real-time inference on consumer GPUs.',
         details: [
             'Implemented multi-resolution VGG19 pipelines with perceptual loss tuning for high-fidelity style transfer.',
-            'Optimized CUDA kernels and mixed-precision training to approach real-time inference on consumer GPUs.',
-            'Served inference via FastAPI with TensorBoard-backed experiment tracking for iterative finetuning.',
             'Developed different versions including VGG19-based single style transfer and segmentation style transfer.'
         ],
         tech: ['VGG19', 'TensorBoard', 'TensorFlow', 'Python'],

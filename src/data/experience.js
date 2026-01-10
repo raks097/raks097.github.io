@@ -12,6 +12,7 @@ export const experiences = [
         bullets: [
             'Productionized a streaming SQL Injection detector using Naive Bayes and Firehose telemetry for drift monitoring, containerized and deployed via ExtraHop\'s async stack; reduced false positives by 53% while maintaining sub-100 ms latency.',
             'Developed a multi-agent RAG system (LangGraph + GPT-4o + ChromaDB + BGE embeddings) that parsed 2K+ merge requests to surface tribal knowledge and internal conventions—enabled context-aware code reviews and accelerated development.',
+            'Built a ReAct agent with automated web scraping tools to generate real-time threat briefings for CVE alerts, reducing analyst response time from hours to minutes; leveraged DSPy\'s GEPA algorithm with LLM-as-Judge evaluation to auto-tune prompt tone and voice.',
         ]
     },
     {
